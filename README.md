@@ -23,4 +23,4 @@ This repository contains the code and outputs for a project focused on analyzing
 
 ## Author
 
-[Amanda Sumner]
+[Amanda Sumner](https://github.com/PieRatCat)
