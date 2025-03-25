@@ -1,4 +1,4 @@
-# AI Use Case Analysis and Reporting Project for Öresundskraft
+# AI Use Case Analysis Project for Öresundskraft
 
 This repository contains the code and outputs for a project focused on analyzing and summarizing AI use cases. The project involved processing use case descriptions, extracting key information, and generating reports in both Excel and CSV formats.
 
