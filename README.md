@@ -6,7 +6,6 @@ This repository contains the code and outputs for a project focused on analyzing
 
 * **`AI_agent_Task.ipynb`**: This Jupyter Notebook contains all the Python code used for data processing, analysis, and report generation.
 * **`use_cases_report.xlsx`**: This Excel file is the output of the AI agent, containing a detailed report of the analyzed use cases.
-* **`use_cases_report.csv`**: This CSV file is also an output of the AI agent, providing a summarized version of the use case data.
 * **`Use_case_solution.pdf`**: This PDF file contains the presentation of a selected use case implementation strategy.
 * **`Student Case.pdf`**: This PDF file contains the original task description from the client.
 * **`use_cases.xlsx`**: This Excel file contains the original data provided for the task by the client.
